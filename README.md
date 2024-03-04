@@ -18,7 +18,7 @@
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 31 years old, currently living in Brazil. 
-    I worked for five years in the civil engineering area and am currently transitioning my career to the programming area. I am dedicating myself to my new career, studying new languages ​​and tools, in addition to improving my English.
+    I worked for in the civil engineering area and am currently transitioning my career to the programming area, I am dedicating myself to my new career, studying new languages ​​and tools, in addition to improving my English.
 
   - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games, but I haven't played for a long time because I leave that time for my studies! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
