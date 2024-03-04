@@ -8,7 +8,7 @@
 <p>
   Hi👋, I'm Alisson! A passionate Front-End student from Brazil.
   
-  - 🌱 I’m currently studying front-end and SAP ABAP.
+  - 🌱 I’m currently studying front-end and SAP.
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with Front-End and SAP.
 </p>
